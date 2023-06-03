@@ -1,2 +1,2 @@
-# creational_patterns
-Creational design patterns using Java
+# Creational -- Design Patterns using Java
+- Patterns implemented: **Factory method**
