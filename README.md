@@ -2,3 +2,4 @@
 - Patterns implemented:
   - **Factory method** 
   - **Builder pattern**
+  - **Singleton**
